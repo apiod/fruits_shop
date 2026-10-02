@@ -38,7 +38,6 @@ JavaScript를 이용한 데이터 처리와 DOM 조작을 학습하는 것을 �
 ## 🔗 링크
 
 - [프로젝트 페이지](https://apiod.github.io/fruits_shop/index.html)
-- [GitHub](https://github.com/apiod/fruits_shop)
 
 ## 📝 느낀 점
 
