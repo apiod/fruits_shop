@@ -1,7 +1,9 @@
 # fruits_shop
 
-HTML, CSS, JavaScript를 활용하여 과일 데이터를 화면에 출력하고
+HTML, CSS, JavaScript를 활용하여 과일 데이터를 화면에 출력하고  
 사용자의 입력에 따라 데이터를 검색하고 정렬하는 과일 상점 예제 프로젝트입니다.
+
+![Fruits Shop 실행 화면](./img/index.png)
 
 ## 📌 프로젝트 소개
 
